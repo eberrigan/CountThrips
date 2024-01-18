@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.automationProfile.windows": {},
+    "terminal.integrated.env.windows": {
+        "current-mamba": "count-thrips"
+    },
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
